@@ -1,4 +1,4 @@
-public class PrintSSQProgram6Training {
+public class PrintSSQ1 {
     public static void main(String[] args) {
         int[] arr ={1,2,3};
         printSubSeq(arr,0,"");
