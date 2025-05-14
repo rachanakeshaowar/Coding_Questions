@@ -10,6 +10,7 @@ public class ReverseAStackWithoutExtraSpace {
         System.out.println(sc);
 
     }
+    
     public static void Insert(  Stack<Integer> sc,int val  ) {
         if (sc.isEmpty()) {
             sc.push(val);
