@@ -44,7 +44,7 @@ return true ;
     }
     public static void main(String[] args) {
 String s="anagram";
-String t="anagram";
+String t="anagramw";
         System.out.println("Using isAnagram: " + isAnagram(s, t));
         System.out.println("Using isAnagram2: " + isAnagram2(s, t));
 
