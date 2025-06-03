@@ -60,7 +60,7 @@ public class Isomorphic {
         System.out.println(iso.isomorphic("egg", "add")); // true
         System.out.println(iso.isomorphic("foo", "bar")); // false
         System.out.println(iso.isomorphic2("paper", "title")); // true
-        System.out.println(iso.isomorphic2("ab", "aa")); // false
+        
     }
 
 }
